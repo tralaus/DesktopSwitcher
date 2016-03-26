@@ -100,9 +100,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DesktopSwitch\DesktopSwitch.csproj">
+    <ProjectReference Include="..\DesktopSwitch\DesktopManagement.csproj">
       <Project>{65a5374b-2b30-4882-89df-70181ae62279}</Project>
-      <Name>DesktopSwitch</Name>
+      <Name>DesktopManagement</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
