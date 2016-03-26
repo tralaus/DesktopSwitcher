@@ -8,8 +8,8 @@
     <ProjectGuid>{997DA9C2-6B55-42DC-8A15-BB6FC5B0C6BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSRegisterHotkey</RootNamespace>
-    <AssemblyName>CSRegisterHotkey</AssemblyName>
+    <RootNamespace>DesktopSwitcher</RootNamespace>
+    <AssemblyName>DesktopSwitcher</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
